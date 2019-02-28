@@ -9,6 +9,7 @@ main_page_head = '''
     <title>Fresh Tomatoes!</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <!-- Bootstrap 3 -->
+    //linking css files
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
